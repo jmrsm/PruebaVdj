@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: fb87c0814b8e45f48b595c22db23e1b5
+timeCreated: 1476811194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scottsinfondo_0
+    21300002: scottsinfondo_1
+    21300004: scottsinfondo_2
+    21300006: scottsinfondo_3
+    21300008: scottsinfondo_4
+    21300010: scottsinfondo_5
+    21300012: scottsinfondo_6
+    21300014: scottsinfondo_7
+    21300016: scottsinfondo_8
+    21300018: scottsinfondo_9
+    21300020: scottsinfondo_10
+    21300022: scottsinfondo_11
+    21300024: scottsinfondo_12
+    21300026: scottsinfondo_13
+    21300028: scottsinfondo_14
+    21300030: scottsinfondo_15
+    21300032: scottsinfondo_16
+    21300034: scottsinfondo_17
+    21300036: scottsinfondo_18
+    21300038: scottsinfondo_19
+    21300040: scottsinfondo_20
+    21300042: scottsinfondo_21
+    21300044: scottsinfondo_22
+    21300046: scottsinfondo_23
+    21300048: scottsinfondo_24
+    21300050: scottsinfondo_25
+    21300052: scottsinfondo_26
+    21300054: scottsinfondo_27
+    21300056: scottsinfondo_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scottsinfondo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4201
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4202
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4202
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4202
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4201
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4202
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4202
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4202
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4135
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4136
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4136
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4135
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4136
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4136
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4137
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4136
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_16
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3985
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_17
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 3987
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_18
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3987
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_19
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3987
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3987
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_21
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3987
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3987
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3987
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 3987
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_25
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3988
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_26
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3988
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_27
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 3988
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scottsinfondo_28
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 3984
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
